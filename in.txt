@@ -1,0 +1,15 @@
+PROGRAM nazvenia
+VAR a,b,c,d, report:INTEGER;
+rushb:INTEGER
+BEGIN
+a:=2048;
+
+READ(a);
+WRITE(a);
+
+
+FOR i:=44 TO 9 DO
+BEGIN
+READ(b)
+END;
+END.
